@@ -1,5 +1,4 @@
-# Rock-paper-scissors-lizard-Spock template
-
+# Rock-paper-scissors-lizard-Spock game
 
 # The key idea of this program is to equate the strings
 # "rock", "paper", "scissors", "lizard", "Spock" to numbers
