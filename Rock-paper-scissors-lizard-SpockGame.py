@@ -25,9 +25,6 @@ def name_to_number(name):
     else:
         print "Invalid thing"
     
-    # delete the follwing pass statement and fill in your code below
-    pass
-
 
     # convert name to number using if/elif/else
     # don't forget to return the result!
