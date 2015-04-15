@@ -10,7 +10,6 @@
 # 3 - lizard
 # 4 - scissors
 
-# helper functions
 
 def name_to_number(name):
     if name == "rock":
