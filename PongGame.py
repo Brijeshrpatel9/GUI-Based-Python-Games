@@ -2,8 +2,7 @@
 
 #I have impelmented "Pong Game" in Python using Code Skulptor Tool. 
 #When Ball touches one of the paddle, it changes color. When ball misses the paddle touch, score is incremented by 1.
-
-This is "2 Player" game.
+#This is "2 Player" game.
 
 # Implementation of classic arcade game Pong
 
