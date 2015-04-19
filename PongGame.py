@@ -184,7 +184,7 @@ new_game()
 frame.start()
 
 '''
-# Black and White Pong
+# Pong game with Black and White Ball
 # Implementation of classic arcade game Pong
 import simplegui
 import random
