@@ -16,9 +16,7 @@ def format(t):
     c = ((t % 600) / 10) % 10
     d = (t % 600) % 10
     return str(a) + ":" + str(b) + str(c) + "." + str(d)
-     
-
-
+    
 # define event handlers for buttons; "Start", "Stop", "Reset"
 
 def start():
