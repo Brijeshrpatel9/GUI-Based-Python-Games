@@ -3,6 +3,8 @@
 
 # I have impelmented "Stopwatch" game in Python using Code Skulptor Tool.
 
+# In this game when you click the "stop" button at precise second (ending with zero), you will get one point. 
+# Score is displayed in "x/y" format where x is your accurate stop button clicks and y is your total stop button clicks.
 
 # define global variables
 
