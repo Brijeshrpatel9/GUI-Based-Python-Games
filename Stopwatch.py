@@ -1,5 +1,11 @@
+# My favorite things in life don't cost any money. It's really clear that the most precious resource 
+# we all have is time. So let's make it precise counter.
+
+# I have impelmented "Stopwatch" game in Python using Code Skulptor Tool.
+
 
 # define global variables
+
 import simplegui
 import math
 
