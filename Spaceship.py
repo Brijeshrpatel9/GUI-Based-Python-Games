@@ -8,17 +8,21 @@ Spaceship should behave as follows:
     While the left arrow is held down, your spaceship should turn counter-clockwise. 
     While the right arrow is down, your spaceship should turn clockwise. When neither key is down, 
     your ship should maintain its orientation. 
-    You will need to pick some reasonable angular velocity at which your ship should turn. 
+    You will need to pick some reasonable angular velocity at which your ship should turn.
+    
     • The up arrow should control the thrusters of your spaceship. 
     The thrusters should be on when the up arrow is down and off when it is up. 
     When the thrusters are on, you should draw the ship with thrust flames. 
     When the thrusters are off, you should draw the ship without thrust flames. 
+    
     • When thrusting, the ship should accelerate in the direction of its forward vector. 
     This vector can be computed from the orientation/angle of the ship using the provided helper function angle_to_vector. 
     You will need to experiment with scaling each component of this acceleration vector to generate a reasonable acceleration.
+    
     • Remember that while the ship accelerates in its forward direction, 
     but the ship always moves in the direction of its velocity vector. 
     Being able to accelerate in a direction different than the direction that you are moving is a hallmark of Asteroids. 
+    
     • Your ship should always experience some amount of friction. 
     (Yeah, we know, "Why is there friction in the vacuum of space?". Just trust us there is in this game.) 
     This choice means that the velocity should always be multiplied by a constant factor less than one to slow the ship down. 
