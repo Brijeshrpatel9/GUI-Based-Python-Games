@@ -332,7 +332,6 @@ def keyup(key):
     elif key==simplegui.KEY_MAP["down"]:
         paddle2_vel = 0
          
-      
 # create frame
 frame = simplegui.create_frame("Pong", WIDTH, HEIGHT)
 frame.set_draw_handler(draw)
