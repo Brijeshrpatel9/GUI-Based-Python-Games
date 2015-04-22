@@ -1,9 +1,7 @@
-# Mini-project #6 - Blackjack
-I like to play blackjack. I'm not addicted to gambling. I'm addicted to sitting in a semi-circle.
-
-So I have impelmented "Black Jack" game in Python using Code Skulptor Tool.
-
-To know more about Black Jack go to this link: http://en.wikipedia.org/wiki/Blackjack
+# Blackjack
+# I like to play blackjack. I'm not addicted to gambling. I'm addicted to sitting in a semi-circle.
+# So I have impelmented "Black Jack" game in Python using Code Skulptor Tool.
+# To know more about Black Jack go to this link: http://en.wikipedia.org/wiki/Blackjack
 
 import simplegui
 import random
