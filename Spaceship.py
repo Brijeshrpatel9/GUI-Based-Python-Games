@@ -1,5 +1,5 @@
 '''
-Descripy:
+Description of game:
 I have impelmented "Space Ship" game in Python using Code Skulptor Tool.
 
 It's more fun to play with your friends.
