@@ -20,15 +20,13 @@ def new_game():
     n = math.ceil(math.log(range- low + 1)/math.log(2))
     n = int(n)
 
-    print "New Game. Range is from 0 to", range
+    print "New Game. Range is from 0 to ", range
     print "Number of remaining guesses", n
     global num_range
     num_range = random.randrange(range)
     secret_number = num_range
     print "  "
     
-
-
 def range100():
    
     print " "
