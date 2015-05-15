@@ -1,6 +1,7 @@
 '''
 Description of game:
-Spaceship
+
+Game name: Spaceship
 
 I have impelmented "Space Ship" game in Python using Code Skulptor Tool.
 
