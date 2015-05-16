@@ -10,7 +10,6 @@
 # 3 - lizard
 # 4 - scissors
 
-
 def name_to_number(name):
     if name == "rock":
         return 0
@@ -28,7 +27,6 @@ def name_to_number(name):
 
     # convert name to number using if/elif/else
     # don't forget to return the result!
-
 
 def number_to_name(number):
     
