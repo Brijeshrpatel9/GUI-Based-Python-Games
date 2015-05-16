@@ -23,7 +23,6 @@ def name_to_number(name):
     else:
         print "Invalid thing"
     
-
     # convert name to number using if/elif/else
     # don't forget to return the result!
 
