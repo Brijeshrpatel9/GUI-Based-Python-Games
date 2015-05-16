@@ -41,8 +41,6 @@ def number_to_name(number):
         return "scissors"
     else:
         print "Invalid number"
-    # delete the follwing pass statement and fill in your code below
-    pass
     
     # convert number to a name using if/elif/else
     # don't forget to return the result!
