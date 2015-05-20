@@ -42,7 +42,6 @@ def stop():
         
     timer.stop()
     
-
 def reset():
      global t, x, y
      t = x = y = 0
@@ -56,7 +55,6 @@ def tick():
     global counter
     counter += 1
        
-
 
 # define draw handler
 def draw(canvas):
