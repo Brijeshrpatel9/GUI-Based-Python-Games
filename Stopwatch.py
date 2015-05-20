@@ -55,14 +55,12 @@ def tick():
     global counter
     counter += 1
        
-
 # define draw handler
 def draw(canvas):
     global t, st
     global x, y
     canvas.draw_text(format(t), [55,110] , 40, "White")
     canvas.draw_text(str(x)+ "/" + str(y), [135,35], 32, "Red")
-    
     
 # create frame
 
