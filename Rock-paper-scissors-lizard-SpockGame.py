@@ -69,9 +69,7 @@ def rpsls(player_choice):
     else:
         print "Player and Computer tie!"
    
-        
     print ""
-
 # test your code - LEAVE THESE CALLS IN YOUR SUBMITTED CODE
 rpsls("rock")
 rpsls("Spock")
