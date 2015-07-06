@@ -1,4 +1,5 @@
 # program template for RiceRocks
+# Find the description at the end
 import simplegui
 import math
 import random
