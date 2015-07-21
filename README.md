@@ -4,4 +4,4 @@ I have developed 7 interactive games in Interactive games in Python using CodeSk
 Rice University.
 
 1. Spaceship
-2.
+2. Blackjack
