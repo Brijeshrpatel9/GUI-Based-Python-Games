@@ -48,7 +48,7 @@ def reset():
      t = x = y = 0
      timer.stop()
 
-    # define event handler for timer with 0.1 sec interval
+# define event handler for timer with 0.1 sec interval
 def tick():
     global t
     t += 1
