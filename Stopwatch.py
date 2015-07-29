@@ -17,7 +17,6 @@ y = 0
 counter = 0
 
 # define helper function format that converts time
-# 
 # in tenths of seconds into formatted string A:BC.D
 # main part of game
 def format(t):
