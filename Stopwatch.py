@@ -19,6 +19,7 @@ counter = 0
 # define helper function format that converts time
 # in tenths of seconds into formatted string A:BC.D
 # main part of game
+
 def format(t):
     a = t //600
     b = ((t % 600) / 10) // 10
@@ -47,8 +48,7 @@ def reset():
      t = x = y = 0
      timer.stop()
 
-    
-# define event handler for timer with 0.1 sec interval
+    # define event handler for timer with 0.1 sec interval
 def tick():
     global t
     t += 1
