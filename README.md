@@ -7,3 +7,4 @@ Rice University.
 2. Blackjack
 3. Guess the Number
 4. Memory Card
+5. Pong
