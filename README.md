@@ -5,3 +5,4 @@ Rice University.
 
 1. Spaceship
 2. Blackjack
+3. Guess the Number
