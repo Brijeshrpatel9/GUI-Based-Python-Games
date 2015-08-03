@@ -6,4 +6,4 @@ Rice University.
 1. Spaceship
 2. Blackjack
 3. Guess the Number
-4. Memory Card Game
+4. Memory Card
