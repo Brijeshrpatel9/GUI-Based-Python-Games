@@ -9,4 +9,4 @@ Rice University.
 4. Memory Card
 5. Pong
 6. Stopwatch
-7. Rock-paper-scissors-lizard-Spock game
+7. Rock-paper-scissors-lizard-Spock
