@@ -63,7 +63,6 @@ def draw(canvas):
     canvas.draw_text(str(x)+ "/" + str(y), [135,35], 32, "Red")
     
 # create frame
-
 frame = simplegui.create_frame("Stop Watch", 200, 200)
 
 # register event handlers
