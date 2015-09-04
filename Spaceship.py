@@ -57,6 +57,7 @@ nebula_image = simplegui.load_image("http://commondatastorage.googleapis.com/cod
 # splash image
 splash_info = ImageInfo([200, 150], [400, 300])
 splash_image = simplegui.load_image("http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/splash.png")
+
 #splash_blank = simplegui.load_image("https://i.imgur.com/0Kd8pyg.png")
 # ship image
 ship_info = ImageInfo([45, 45], [90, 90], 35)
