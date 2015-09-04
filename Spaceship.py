@@ -62,9 +62,11 @@ splash_image = simplegui.load_image("http://commondatastorage.googleapis.com/cod
 # ship image
 ship_info = ImageInfo([45, 45], [90, 90], 35)
 ship_image = simplegui.load_image("http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/double_ship.png")
+
 # missile image - shot1.png, shot2.png, shot3.png
 missile_info = ImageInfo([5,5], [10, 10], 3, 70)
 missile_image = simplegui.load_image("http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/shot1.png")
+
 # asteroid images - asteroid_blue.png, asteroid_brown.png, asteroid_blend.png
 asteroid_info = ImageInfo([45, 45], [90, 90], 40)
 asteroid_image = simplegui.load_image("http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/asteroid_blue.png")
