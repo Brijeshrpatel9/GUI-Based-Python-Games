@@ -154,7 +154,6 @@ def deal():
     global outcome, in_play, score, card, deck, hand, dealer, cover
 
     if in_play:
-
             in_play = False
             outcome = "You lose! New deal?"
             cover = 0
