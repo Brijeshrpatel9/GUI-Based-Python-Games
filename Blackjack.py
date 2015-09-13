@@ -161,7 +161,6 @@ def deal():
             score = score - 1
 
     else:
-
             new_deck = Deck()
             new_hand = Hand()
             new_dealer = Hand()
