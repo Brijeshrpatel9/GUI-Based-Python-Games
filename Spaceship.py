@@ -1,4 +1,4 @@
-# program template for RiceRocks
+# Implementation of RiceRocks
 # Find the description at the end
 import simplegui
 import math
