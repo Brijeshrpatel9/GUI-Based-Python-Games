@@ -4,7 +4,6 @@
 # When Ball touches one of the paddle, it changes color. When ball misses the paddle touch, score is incremented by 1.
 # This is "2 Player" game.
 
-
 import simplegui
 import random
 
