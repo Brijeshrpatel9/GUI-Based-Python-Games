@@ -11,7 +11,7 @@ state = 0
 a = b = i = 0
 turns = 0
 
-# helper function to initialize globals
+#function to initialize globals
 def new_game():
     global exposed, state, card_list1, card_list2, card_list, turns
     exposed = [False] * 16
