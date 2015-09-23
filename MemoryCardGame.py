@@ -1,4 +1,4 @@
-# implementation of card game - Memory
+# implementation of card game - 
 import simplegui
 import random
 
